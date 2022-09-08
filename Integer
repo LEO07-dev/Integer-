@@ -1,0 +1,19 @@
+#include <iostream>
+user namespace std;
+
+Panjang, Lebar = integer 
+Keliling, Luas = riil
+main ()
+{
+  cout << "menghitung persegi" << endl;
+  cout << "panjang = " ;
+  cin >> Panjang;
+  
+  cout << "lebar = " << endl;
+  cin >> Lebar;
+  
+  Luas = Panjang*Lebar;
+  cout << "Luasnya adalah = " << Luas;
+  
+  return 0;
+  }
